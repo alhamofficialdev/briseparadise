@@ -79,19 +79,19 @@ h6,
 h2,
 .h2 {
   font-size: 90px;
-  font-family: 'Yellowtail', cursive;
+  font-family: 'Lexend Deca', sans-serif;
 }
 @media only screen and (max-width: 767px) {
   h2,
 .h2 {
-    font-size: 40px;
+    font-size: 25px;
   }
 }
 
 h3,
 .h3 {
   font-size: 50px;
-  font-family: 'Yellowtail', cursive;
+  font-family: 'Lexend Deca', sans-serif;
 }
 @media only screen and (max-width: 1024px) {
   h3,
@@ -103,7 +103,7 @@ h3,
 h4,
 .h4 {
   font-size: 40px;
-  font-family: 'Yellowtail', cursive;
+  font-family: 'Lexend Deca', sans-serif;
 }
 @media only screen and (max-width: 767px) {
   h4,
