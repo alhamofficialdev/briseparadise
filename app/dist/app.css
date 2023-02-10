@@ -3400,6 +3400,13 @@ img.mfp-img {
 }
 .team .team-swiper {
   margin-top: 40px;
+  padding-left: 20%;
+}
+@media only screen and (max-width: 767px) {
+  .team .team-swiper {
+    margin-top: 40px;
+    padding-left: 0%;
+  }
 }
 .team.s2 {
   padding: 30px 0 69px;
