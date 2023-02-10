@@ -1297,7 +1297,7 @@ a {
   -webkit-text-fill-color: transparent;
   position: relative;
 }
-.banner .block-text .heading span.s1::after {
+/* .banner .block-text .heading span.s1::after {
   content: "";
   width: 317.39px;
   height: 64.77px;
@@ -1305,7 +1305,7 @@ a {
   bottom: -57px;
   left: -63px;
   background: url("../../../assets/images/icon/Line.png") no-repeat;
-}
+} */
 .banner .block-text .desc {
   padding-right: 130px;
   margin-bottom: 40px;
